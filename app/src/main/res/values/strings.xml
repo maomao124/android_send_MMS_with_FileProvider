@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_send_MMS_with_FileProvider</string>
+
+    <string name="file_provider">123</string>
+</resources>
